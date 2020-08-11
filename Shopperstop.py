@@ -37,4 +37,4 @@ def send_mail():
     msg=f"Subject:{subject}\n\n{body}"
     server.sendmail("vaibhavrijumishra@gmail.com","vaibhavrijumishra07@gmail.com",msg)
     print("EMAIL HAS BEEN SENT")
-pp()
+
